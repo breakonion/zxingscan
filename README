@@ -1,0 +1,1 @@
+just a simple Android studio QR code project which can scan QR code and make QR code with google libzxing. if you long press the imageview QR code you can save it to you phone photo
